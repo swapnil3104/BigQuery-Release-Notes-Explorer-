@@ -2,6 +2,11 @@
 
 A high-fidelity, responsive web dashboard built with **Python Flask** and vanilla **HTML, CSS, and JavaScript**. This application parses, structures, and displays the official BigQuery Release Notes feed, providing a modern dashboard experience to filter releases and easily tweet specific updates.
 
+🤖 Built with Google Antigravity CLI
+
+This project was developed entirely using Google Antigravity CLI as part of the 5-Day AI Agents: Intensive Vibe Coding Workshop with Google. The application showcases the principles of vibe coding, where natural language prompts are used to design, build, and refine software with AI-assisted development workflows.
+
+From architecture planning and backend implementation to frontend design and user experience, the project was created through iterative collaboration with AI agents, demonstrating how modern agentic development tools can accelerate the journey from idea to production-ready applications.
 ---
 
 ## 🎨 Key Features
